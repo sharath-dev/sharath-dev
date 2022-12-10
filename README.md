@@ -40,9 +40,9 @@ I'm Sharath, here because apparently this is where all the cool programmers hang
 
 ## 🤓 Statistics because who doesn't like numbers
 
-[![sharath-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharath-dev&show_icons=true&theme=github_dark&count_private=true)](https://github.com/sharath-dev?tab=overview)
+[![sharath-dev's GitHub Stats](https://github-readme-stats-i7xalxkrf-sharath-dev.vercel.app/api?username=sharath-dev&show_icons=true&theme=github_dark&count_private=true)](https://github.com/sharath-dev?tab=overview)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-dev&layout=compact&theme=github_dark&count_private=true)](https://github.com/sharath-dev/?tab=overview) -->
+[![Top Langs](https://github-readme-stats-i7xalxkrf-sharath-dev.vercel.app/api/top-langs/?username=sharath-dev&exclude_repo=IPL-DB,github-readme-stats&layout=compact&theme=github_dark&langs_count=10&count_private=true)](https://github.com/sharath-dev/?tab=overview)
 
 <!--Markdown Images and URLs-->
 
