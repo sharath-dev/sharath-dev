@@ -1,6 +1,8 @@
 ## 👋 Hey There!
 
-I'm Sharath, here because apparently this is where all the cool programmers hangout.
+I'm Sharath, here because apparently this is where all the cool programmers hangout. 
+
+- Checkout my website at: sharath.io
 
 - Primary Work:
   - Full Stack Development
